@@ -1,28 +1,43 @@
 # Java POO (Programação Orientada a Objetos) ☕
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
 
-Este repositório contém a implementação de conceitos fundamentais e avançados de **Programação Orientada a Objetos (POO)** utilizando a linguagem Java. O foco é documentar o aprendizado sobre a estrutura de classes, objetos e os pilares da POO.
+Este repositório contém a implementação completa dos conceitos fundamentais e avançados de **Programação Orientada a Objetos (POO)** utilizando Java. O projeto serve como um guia prático para consulta de sintaxe e aplicação dos pilares da POO.
 
 ## 🚀 Sobre o Projeto
 
-O objetivo deste projeto é consolidar o conhecimento prático em Java, explorando como transformar conceitos teóricos em código limpo e reutilizável.
+O desenvolvimento deste projeto visou a aplicação real de padrões de projeto e a organização de código seguindo as melhores práticas da linguagem Java. Todos os módulos planejados foram concluídos com sucesso.
 
-### 🧠 Conceitos Implementados
+### 🧠 Pilares da POO Aplicados
 
-Neste repositório, você encontrará exemplos práticos de:
-- **Classes e Objetos:** Definição de moldes e instanciamento.
-- **Atributos e Métodos:** Estados e comportamentos dos objetos.
-- **Encapsulamento:** Uso de modificadores de acesso (`public`, `private`, `protected`) e métodos `getters/setters`.
-- **Herança:** Reutilização de código através de classes pai e filhas.
-- **Polimorfismo:** Sobrecarga e sobreposição de métodos.
-- **Abstração:** Criação de classes e métodos abstratos para modelos genéricos.
+* **Abstração:** Representação de entidades complexas de forma simplificada.
+* **Encapsulamento:** Proteção de dados sensíveis e controle de acesso via métodos acessores.
+* **Herança:** Estruturação de classes para compartilhamento de comportamentos e atributos.
+* **Polimorfismo:** Implementação de métodos que podem se comportar de diferentes formas dependendo do objeto.
 
-## 📂 Estrutura das Pastas
+## 📂 Estrutura do Repositório
 
-```text
-/src
-  ├── model/          # Classes que representam as entidades (ex: Pessoa, Conta)
-  ├── service/        # Lógica de negócio e manipulação de dados
-  └── main/           # Ponto de entrada da aplicação (Main.java)
+* `src/`: Contém todo o código-fonte organizado por pacotes.
+* `exemplos/`: Implementações específicas de lógica de POO.
+
+## 🛠️ Requisitos para Rodar
+
+* **Java JDK 11** ou superior.
+* Editor de texto ou IDE (IntelliJ, Eclipse, VS Code).
+
+## 🏁 Como Utilizar
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/Carlost1wre3/Java-POO.git](https://github.com/Carlost1wre3/Java-POO.git)
+    ```
+2.  **Compile e Execute:**
+    Navegue até a pasta do arquivo principal e execute:
+    ```bash
+    javac NomeDoArquivo.java
+    java NomeDoArquivo
+    ```
+
+---
+**Desenvolvido por [Carlos](https://github.com/Carlost1wre3)** 🚀
