@@ -2,42 +2,34 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
+![Curso em Vídeo](https://img.shields.io/badge/Curso-Curso%20em%20V%C3%ADdeo-blueviolet?style=for-the-badge)
 
-Este repositório contém a implementação completa dos conceitos fundamentais e avançados de **Programação Orientada a Objetos (POO)** utilizando Java. O projeto serve como um guia prático para consulta de sintaxe e aplicação dos pilares da POO.
+Este repositório contém a implementação completa dos conceitos de **Programação Orientada a Objetos (POO)** utilizando Java. O conteúdo foi desenvolvido com base nas aulas do **Professor Gustavo Guanabara**, através do canal **Curso em Vídeo**.
 
 ## 🚀 Sobre o Projeto
 
-O desenvolvimento deste projeto visou a aplicação real de padrões de projeto e a organização de código seguindo as melhores práticas da linguagem Java. Todos os módulos planejados foram concluídos com sucesso.
+O objetivo deste projeto foi colocar em prática toda a base teórica de POO, seguindo a didática do Curso em Vídeo para construir códigos organizados, modulares e eficientes.
 
-### 🧠 Pilares da POO Aplicados
+### 🧠 Conceitos Aprendidos e Aplicados
 
-* **Abstração:** Representação de entidades complexas de forma simplificada.
-* **Encapsulamento:** Proteção de dados sensíveis e controle de acesso via métodos acessores.
-* **Herança:** Estruturação de classes para compartilhamento de comportamentos e atributos.
-* **Polimorfismo:** Implementação de métodos que podem se comportar de diferentes formas dependendo do objeto.
+* **Classes e Objetos:** Instanciação e manipulação de objetos reais.
+* **Encapsulamento:** Uso de `private`, `protected` e métodos `get`, `set` e `construct`.
+* **Herança:** Criação de árvores hierárquicas para especialização de classes.
+* **Polimorfismo:** Técnicas de sobreposição (`@Override`) e sobrecarga.
+* **Interfaces:** Implementação de contratos e comportamentos abstratos.
+
+## 🎓 Referência
+
+Este projeto é o resultado prático das aulas de Java POO do:
+* **Professor:** Gustavo Guanabara
+* **Instituição:** [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 ## 📂 Estrutura do Repositório
 
-* `src/`: Contém todo o código-fonte organizado por pacotes.
-* `exemplos/`: Implementações específicas de lógica de POO.
+O código está organizado conforme os exercícios e exemplos propostos durante o curso, abrangendo desde a criação do primeiro objeto até sistemas de combate (Ultra Emoji Combat) e projetos finais de vídeo.
 
-## 🛠️ Requisitos para Rodar
+## 🏁 Como Executar
 
-* **Java JDK 11** ou superior.
-* Editor de texto ou IDE (IntelliJ, Eclipse, VS Code).
-
-## 🏁 Como Utilizar
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/Carlost1wre3/Java-POO.git](https://github.com/Carlost1wre3/Java-POO.git)
-    ```
-2.  **Compile e Execute:**
-    Navegue até a pasta do arquivo principal e execute:
-    ```bash
-    javac NomeDoArquivo.java
-    java NomeDoArquivo
-    ```
-
----
-**Desenvolvido por [Carlos](https://github.com/Carlost1wre3)** 🚀
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Carlost1wre3/Java-POO.git](https://github.com/Carlost1wre3/Java-POO.git)
